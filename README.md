@@ -30,10 +30,6 @@ The **AI Personal Finance Planner** is a Streamlit-powered application that help
    * **SerpAPI Key**: Sign up at [SerpAPI](https://serpapi.com) to get your key.
 
 4. **Run the Streamlit app**
-
    ```bash
    streamlit run finance_agent.py
-   ```
-
-
-If you want, I can also make a **shorter, marketing-style version** for GitHub README or app landing page. Would you like me to prepare that?
+   ``
